@@ -1,0 +1,26 @@
+{
+"name": "34k-io999-ui",
+"version": "1.0.0",
+"description": "Keep track of your workouts, set goals, and monitor your fitness progress on the go.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/eikawoodward/34-Fitness-Tracking-App.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "eikawoodward",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
